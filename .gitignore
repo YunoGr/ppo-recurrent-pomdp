@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+results/tb/
+results/models/*.pt
+!results/**/.gitkeep
+report/*.aux
+report/*.log
+*.tmp
+.vscode/

@@ -1,0 +1,5 @@
+config,label,implementation,mean_eval_return,std_across_seeds,mean_train_return_last50,n_seeds
+ppo_framestack_pomdp,PPO-FrameStack / POMDP,from_scratch,493.56666666666666,11.013211762847988,269.11333333333334,3
+ppo_mlp_mdp,PPO-MLP / MDP,from_scratch,487.1666666666667,12.20751134889228,377.46000000000004,3
+ppo_mlp_pomdp,PPO-MLP / POMDP,from_scratch,40.56666666666667,0.27537852736430685,52.36666666666667,3
+sb3_recurrentppo_pomdp,RecurrentPPO-LSTM / POMDP,sb3-contrib,275.3333333333333,100.45041479920994,,3

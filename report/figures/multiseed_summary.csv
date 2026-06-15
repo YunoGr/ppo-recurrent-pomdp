@@ -1,0 +1,5 @@
+Configuration,N seeds,Mean ± std,IQM,Min - Max,Seeds details
+PPO-MLP+FrameStack / Masked (POMDP),3,269.1 ± 21.2,269.1,239.5 - 287.7,"280, 288, 240"
+PPO-LSTM / Masked (POMDP),3,21.7 ± 0.5,21.7,21.3 - 22.4,"22, 21, 21"
+PPO-MLP / CartPole (MDP),3,377.5 ± 28.2,377.5,337.6 - 397.7,"398, 338, 397"
+PPO-MLP / CartPole-Masked (POMDP),3,52.4 ± 4.3,52.4,47.4 - 57.8,"58, 47, 52"

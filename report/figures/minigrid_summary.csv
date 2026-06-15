@@ -1,0 +1,4 @@
+Configuration,Épisodes,Retour final (50 derniers),Std (50 derniers),Max observé
+PPO-MLP / MiniGrid-Memory,40493,0.450,0.488,0.989
+PPO-MLP+FrameStack / MiniGrid-Memory,40425,0.489,0.489,0.989
+PPO-LSTM / MiniGrid-Memory,50758,0.485,0.485,0.989

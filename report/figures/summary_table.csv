@@ -1,0 +1,5 @@
+Configuration,Épisodes totaux,Retour final (moy 50),Retour final (std 50),Retour max,Timesteps
+PPO-LSTM / CartPole-Masked (POMDP),12933,20.58,10.52,135,298992
+PPO-MLP / CartPole (MDP),1033,487.54,50.48,500,298868
+PPO-MLP / CartPole-Masked (POMDP),6275,54.04,19.75,182,299512
+PPO-MLP+FrameStack / CartPole-Masked (POMDP),2697,345.90,117.48,500,299384

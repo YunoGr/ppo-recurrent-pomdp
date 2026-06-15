@@ -1,0 +1,7 @@
+config,label,seed,final_train_rew,det_eval_mean,det_eval_std
+framestack,PPO+FrameStack(4),1,0.551,0.556,0.486
+framestack,PPO+FrameStack(4),2,0.521,0.525,0.491
+framestack,PPO+FrameStack(4),3,0.56,0.491,0.491
+recurrent,RecurrentPPO-LSTM,1,0.451,0.525,0.491
+recurrent,RecurrentPPO-LSTM,2,0.443,0.427,0.488
+recurrent,RecurrentPPO-LSTM,3,0.539,0.589,0.481

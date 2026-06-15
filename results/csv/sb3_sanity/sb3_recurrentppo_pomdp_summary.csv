@@ -1,0 +1,4 @@
+agent,implementation,env,seed,mean_eval_return,std_eval_return,n_eval_episodes
+RecurrentPPO-LSTM,sb3-contrib,CartPole-MaskedVelocity,1,266.75,40.429112751762645,20
+RecurrentPPO-LSTM,sb3-contrib,CartPole-MaskedVelocity,2,379.8,106.78438679487698,20
+RecurrentPPO-LSTM,sb3-contrib,CartPole-MaskedVelocity,3,179.45,12.262372913660888,20
