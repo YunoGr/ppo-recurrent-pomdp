@@ -127,7 +127,7 @@ This part is presented as an exploratory study, not as the main conclusion of th
 
 The MiniGrid results are less conclusive than the CartPole results and would require additional tuning. They are useful as a complementary exploration, but the main experimental evidence of the project comes from CartPole-MaskedVelocity.
 
-![MiniGrid memory comparison](report/figures/minigrid_memory_comparison.png)
+![MiniGrid memory comparison](scripts/report/figures/minigrid_memory_recurrent_vs_framestack.png)
 
 ---
 
